@@ -1,5 +1,5 @@
 var firebaseConfig = {
-    apiKey: API_KEY,
+    apiKey: proccess.env.API_KEY,
     authDomain: "medbot-59389.firebaseapp.com",
     projectId: "medbot-59389",
     storageBucket: "medbot-59389.appspot.com",
