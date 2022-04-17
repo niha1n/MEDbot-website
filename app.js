@@ -1,5 +1,5 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyBWO3jrJxEzz5oQBzlQdQS81OhHKjoh-YE",
+    apiKey: API_KEY,
     authDomain: "medbot-59389.firebaseapp.com",
     projectId: "medbot-59389",
     storageBucket: "medbot-59389.appspot.com",
